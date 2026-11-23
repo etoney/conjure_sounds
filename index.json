@@ -2,16 +2,5 @@
     "format": "cdm-conjure-library",
     "version": 1,
     "updated": "2026-11-23",
-    "sounds": [
-        {
-            "id": "step-3498",
-            "name": "Step",
-            "credit": "E. Toney",
-            "description": "",
-            "file": "sounds/step-3498.zip",
-            "bytes": 7645996,
-            "added": "2026-11-23",
-            "post": 3498
-        }
-    ]
+    "sounds": []
 }
