@@ -5,10 +5,10 @@ These terms cover every sound in this library. They are shown to members, who ag
 ## If you submit a sound
 
 - You made the sound yourself in Heresy. If it is based on someone else's community preset, credit them in the description.
-- You keep ownership of your sound.
-- You give Castle Danger Music Company a free, permanent, worldwide, non-exclusive permission to host your sound, publish it in this library and in Conjure, give it a name and a description, and credit you by the name you entered.
+- You keep ownership of your sound, and you can keep using it in your own personal and commercial work, or share it anywhere else.
+- You give Castle Danger Music Company a permanent, irrevocable, non-exclusive, worldwide, royalty-free and transferable license to use, copy, change, publish, sell and sublicense your sound, including in paid products, and to credit you by the name you entered.
 - Castle Danger Music Company reviews every sound and may decline it, or remove it later, for any reason.
-- You can ask for your sound to be taken out of the library. Copies people already downloaded, and music they already made with it, are not affected.
+- Because the license can't be withdrawn, a sound stays in the library once it's approved. You can still ask for it to be taken out, and Castle Danger Music Company decides. Copies people already downloaded, and music they already made with it, are not affected either way.
 
 ## If you use a sound from the library
 
