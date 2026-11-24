@@ -1,0 +1,54 @@
+{
+ "format": "cdm-instrument",
+ "version": 1,
+ "id": "glockenspiel",
+ "name": "Glockenspiel",
+ "group": "Mallets",
+ "type": "oneshot",
+ "attack": 0,
+ "release": 0.8,
+ "range": [
+  73,
+  114
+ ],
+ "zones": [
+  {
+   "k": 79,
+   "n": 317816,
+   "pk": 0.049,
+   "f": "glockenspiel-79.mp3"
+  },
+  {
+   "k": 84,
+   "n": 314725,
+   "pk": 0.047,
+   "f": "glockenspiel-84.mp3"
+  },
+  {
+   "k": 91,
+   "n": 169932,
+   "pk": 0.047,
+   "f": "glockenspiel-91.mp3"
+  },
+  {
+   "k": 96,
+   "n": 185086,
+   "pk": 0.047,
+   "f": "glockenspiel-96.mp3"
+  },
+  {
+   "k": 103,
+   "n": 153024,
+   "pk": 0.046,
+   "f": "glockenspiel-103.mp3"
+  },
+  {
+   "k": 108,
+   "n": 57747,
+   "pk": 0.047,
+   "f": "glockenspiel-108.mp3"
+  }
+ ],
+ "source": "VS Chamber Orchestra: Community Edition (Versilian Studios), CC0 1.0",
+ "sourceDir": "Percussion/Glock"
+}
