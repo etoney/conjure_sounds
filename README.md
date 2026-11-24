@@ -12,4 +12,6 @@ Sounds made by the Castle Danger Music Company community in **Heresy**, reviewed
 
 Approvals are committed automatically from castledangermusic.com. Please don't edit `index.json` by hand unless you know what you're doing.
 
-See [TERMS.md](TERMS.md) for how the sounds may be used.
+- `sfx/`: public-domain (CC0) sound effects for the **Graveyard** module in Castle Danger Studio. Sources and credits are in [sfx/CREDITS.md](sfx/CREDITS.md).
+
+See [TERMS.md](TERMS.md) for how the community sounds may be used.
