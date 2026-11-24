@@ -12,6 +12,7 @@ Sounds made by the Castle Danger Music Company community in **Heresy**, reviewed
 
 Approvals are committed automatically from castledangermusic.com. Please don't edit `index.json` by hand unless you know what you're doing.
 
+- `instruments/`: public-domain (CC0) sampled instruments for **Heresy** in Castle Danger Studio, from VS Chamber Orchestra: Community Edition. See [instruments/CREDITS.md](instruments/CREDITS.md).
 - `sfx/`: public-domain (CC0) sound effects for the **Graveyard** module in Castle Danger Studio. Sources and credits are in [sfx/CREDITS.md](sfx/CREDITS.md).
 
 See [TERMS.md](TERMS.md) for how the community sounds may be used.

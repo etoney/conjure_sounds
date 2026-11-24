@@ -1,6 +1,6 @@
 # Conjure sound library terms
 
-These terms cover the community sounds in this library (the `sounds/` folder). The sound effects in `sfx/` are public domain (CC0) from other authors and are not covered by these terms; see [sfx/CREDITS.md](sfx/CREDITS.md). They are shown to members, who agree to them when they submit a sound from Conjure on [castledangermusic.com](https://castledangermusic.com).
+These terms cover the community sounds in this library (the `sounds/` folder). The sound effects in `sfx/` and the instruments in `instruments/` are public domain (CC0) from other authors and are not covered by these terms; see [sfx/CREDITS.md](sfx/CREDITS.md) and [instruments/CREDITS.md](instruments/CREDITS.md). They are shown to members, who agree to them when they submit a sound from Conjure on [castledangermusic.com](https://castledangermusic.com).
 
 ## If you submit a sound
 
